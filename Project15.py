@@ -1,4 +1,4 @@
-#    PROJECT    15
+#    COMPOSITE/PRIME IN RANGE (PROJECT    15)
 #TO FIND WEATHER THE NUMBER IS PRIME OR COMPOSITE IN A GIVEN RANGE AND COUNT OF PRIME AND COMPOSITE NUMBERS
 
 a=int(input("Enter starting number:"))         #for lowest value in range
